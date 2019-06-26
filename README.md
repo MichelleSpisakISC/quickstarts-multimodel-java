@@ -25,10 +25,10 @@ If you would like to see how to store data natively using Java:
 3. Enter destination airport: **AUS**
 
 The output should say:  
->Printed to ^airport global. The distance in miles between BOS and AUS is: 1698.  
+`>Printed to ^airport global. The distance in miles between BOS and AUS is: 1698.  
 >The following routes exist for this path:  
 >  -AA150: 450 USD  
->  -AA290: 550 USD 
+>  -AA290: 550 USD`
 
 Other routes may be null.
 
